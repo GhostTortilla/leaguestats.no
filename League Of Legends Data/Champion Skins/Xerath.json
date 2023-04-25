@@ -1,0 +1,74 @@
+{
+    "Xerath_0": [
+        "Default Xerath",
+        "Champion Default",
+        "05.10.2011",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "Xerath is an Ascended Magus of ancient Shurima, a being of arcane energy writhing in the broken shards of a magical sarcophagus. For millennia, he was trapped beneath the desert sands, but the rise of Shurima freed him from his ancient prison. Driven insane with power, he now seeks to take what he believes is rightfully his and replace the upstart civilizations of the world with one fashioned in his image.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101000.jpg"
+    ],
+    "Xerath_1": [
+        "Runeborn Xerath",
+        "Budget Skin",
+        "05.10.2011",
+        "750 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101001.jpg"
+    ],
+    "Xerath_2": [
+        "Battlecast Xerath",
+        "Timeworn Skin",
+        "05.10.2011",
+        "520 <:RP:1048822247529381968>",
+        "The question of the human soul has always intrigued Viktor, and so he set to work building a Battlecast machine capable of harnessing it. The resulting Xerath units are twisted, hellish monsters imprisoned in a cage of psychic energy, constantly discharging superheated plasma toward any opponent in range.",
+        "Battlecast",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101002.jpg"
+    ],
+    "Xerath_3": [
+        "Scorched Earth Xerath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "13.07.2012",
+        "1350 <:RP:1048822247529381968>",
+        "A highly unstable creature born from roiling magma, Xerath possesses a keen intellect, awaiting the day he might ascend through the ranks of the Infernal war machine, and usurp the Ashen Lord himself. For now his ambitions remain secret, but... soon... soon...",
+        "Infernal",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101003.jpg"
+    ],
+    "Xerath_4": [
+        "Guardian of the Sands Xerath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "26.04.2015",
+        "1350 <:RP:1048822247529381968>",
+        "Xerath, the liquid light - ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest you drown them in your purifying radiance.",
+        "Guardian of the Sands",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101004.jpg"
+    ],
+    "Xerath_5": [
+        "Dark Star Xerath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "26.03.2020",
+        "1350 <:RP:1048822247529381968>",
+        "As the Dark Star continued on its path across space, it passed through a vibrant system orbiting a supergiant star. Consuming all life and light as it passed , the Dark Star twisted the supergiant into a wrathful corruptant. Thus, Xerath was born - a dark being of malice and annihilation.",
+        "Dark Star",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101005.jpg"
+    ],
+    "Xerath_12": [
+        "Arcana Xerath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "13.05.2021",
+        "1350 <:RP:1048822247529381968>",
+        "Ensnared by his own desires, Xerath leads citizens of Low Arcana to act on their basest urges. The more they are entranced by the forbidden, the more his power grows. But while Xerath believes their temptation will lead to his deliverance, he does not realize that the stronger he becomes, the more tightly his chains bind him.",
+        "Arcana",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101012.jpg"
+    ],
+    "Xerath_21": [
+        "Astronaut Xerath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "24.02.2023",
+        "1350 <:RP:1048822247529381968>",
+        "An obsessive chemist driven by power, Xerath discovered the invader meeps and devoted his life to researching how to harness their energy. After an explosion during one of his experiments, his body was permanently mutated. Now, fully consumed by the corrupted meeps, Xerath traverses the galaxy, seeking to spread his malice across the cosmos.",
+        "Astronauts",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/101/101021.jpg"
+    ]
+}

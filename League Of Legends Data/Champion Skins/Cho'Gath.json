@@ -1,0 +1,92 @@
+{
+    "Cho'Gath_0": [
+        "Default Cho'Gath",
+        "Champion Default",
+        "25.06.2009",
+        "585 <:RP:1048822247529381968> / 1350 <:BE:1048822146580881448>",
+        "From the moment Cho'Gath first emerged into the harsh light of Runeterra's sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void's desire to consume all life, Cho'Gath's complex biology quickly converts matter into new bodily growth - increasing its muscle mass and density, or hardening its outer carapace like organic diamond. When growing larger does not suit the Void-spawn's needs, it vomits out the excess material as razor-sharp spines, leaving prey skewered and ready to feast upon later.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31000.jpg"
+    ],
+    "Cho'Gath_1": [
+        "Nightmare Cho'Gath",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "20.11.2009",
+        "520 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31001.jpg"
+    ],
+    "Cho'Gath_2": [
+        "Gentleman Cho'Gath",
+        "Legendary Skin <:Legendary:1048819543432253460>",
+        "11.05.2010",
+        "1820 <:RP:1048822247529381968>",
+        "Prior to indulging in the delectable taste of his victims, Cho'Gath prefers to invite them to his humble 40-acre mansion. There, he offers scones and jam, with a spot of tea... so his guests may savor their last meal before becoming one themselves.",
+        "High Society",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31002.jpg"
+    ],
+    "Cho'Gath_3": [
+        "Loch Ness Cho'Gath",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "01.03.2011",
+        "520 <:RP:1048822247529381968>",
+        "Citing nothing more than a blurry photograph, the locals in one isolated town insist on the existence of a large, predatory marine animal that grows in size every time it feeds. The reports are otherwise unsubstantiated, but the spike in tourism has been great for the local economy. Not the disappearances, though. Those are bad.",
+        "Fables",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31003.jpg"
+    ],
+    "Cho'Gath_4": [
+        "Jurassic Cho'Gath",
+        "Standard Skin",
+        "01.11.2011",
+        "975 <:RP:1048822247529381968>",
+        "None",
+        "Day Job",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31004.jpg"
+    ],
+    "Cho'Gath_5": [
+        "Battlecast Prime Cho'Gath",
+        "Legendary Skin <:Legendary:1048819543432253460>",
+        "03.08.2012",
+        "1820 <:RP:1048822247529381968>",
+        "The gold standard of Battlecast shock troopers, Prime Cho'Gath implements self-replicating nanites that reinforce its frame as it consumes living tissue. It has become a common and terrifying sight in occupied cities, where it feeds on civilians who won't submit to conversion.",
+        "Battlecast",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31005.jpg"
+    ],
+    "Cho'Gath_6": [
+        "Prehistoric Cho'Gath",
+        "Budget Skin",
+        "14.06.2015",
+        "750 <:RP:1048822247529381968>",
+        "A titanic beast feared for its massive size and endless appetite, no sane hunter would ever think of taking on Cho'Gath. Seeing as there are no sane hunters, Cho'Gath enjoys a steady supply of lightly armored food.",
+        "Prehistoric Hunters",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31006.jpg"
+    ],
+    "Cho'Gath_7": [
+        "Dark Star Cho'Gath",
+        "Mythic <:Mythic:1048819402432331866>",
+        "13.07.2018",
+        "100 <:ME:1048845189285941299>",
+        "Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses his path. These feasts swirl into the twin black holes at his heart - as endless and ageless as his hunger.",
+        "Dark Star",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31007.jpg"
+    ],
+    "Cho'Gath_14": [
+        "Shan Hai Scrolls Cho'Gath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "23.06.2022",
+        "1350 <:RP:1048822247529381968>",
+        "A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others.",
+        "Shan Hai Scrolls",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31014.jpg"
+    ],
+    "Cho'Gath_23": [
+        "Broken Covenant Cho'Gath",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "09.03.2023",
+        "1350 <:RP:1048822247529381968>",
+        "A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens.",
+        "Broken Covenant",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/31/31023.jpg"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Bard_0": [
+        "Default Bard",
+        "Champion Default",
+        "12.03.2015",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good... in his own odd way.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432000.jpg"
+    ],
+    "Bard_1": [
+        "Elderwood Bard",
+        "Standard Skin",
+        "12.03.2015",
+        "975 <:RP:1048822247529381968>",
+        "Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them - a truly primordial being, tending the land since time's first dawn.",
+        "Elderwood",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432001.jpg"
+    ],
+    "Bard_5": [
+        "Snow Day Bard",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "10.12.2015",
+        "1350 <:RP:1048822247529381968>",
+        "Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge.",
+        "Snow Day",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432005.jpg"
+    ],
+    "Bard_6": [
+        "Bard Bard",
+        "Budget Skin",
+        "17.11.2016",
+        "750 <:RP:1048822247529381968>",
+        "Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird \"bwong\" sounds.",
+        "Rift Quest",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432006.jpg"
+    ],
+    "Bard_8": [
+        "Astronaut Bard",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "28.05.2020",
+        "1350 <:RP:1048822247529381968>",
+        "In space, no one can hear you chime.",
+        "Astronauts",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432008.jpg"
+    ],
+    "Bard_17": [
+        "Cafe Cuties Bard",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "02.12.2021",
+        "1350 <:RP:1048822247529381968>",
+        "Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!",
+        "Cafe Cuties",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/432/432017.jpg"
+    ]
+}

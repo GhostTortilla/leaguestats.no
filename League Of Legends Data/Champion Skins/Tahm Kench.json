@@ -1,0 +1,56 @@
+{
+    "Tahm Kench_0": [
+        "Default Tahm Kench",
+        "Champion Default",
+        "08.07.2015",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "Known by many names throughout history, the demon Tahm Kench travels the waterways of Runeterra, feeding his insatiable appetite with the misery of others. Though he may appear singularly charming and proud, he swaggers through the physical realm like a vagabond in search of unsuspecting prey. His lashing tongue can stun even a heavily armored warrior from a dozen paces, and to fall into his rumbling belly is to tumble into an abyss from which there is little hope of return.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223000.jpg"
+    ],
+    "Tahm Kench_1": [
+        "Master Chef Tahm Kench",
+        "Standard Skin",
+        "08.07.2015",
+        "975 <:RP:1048822247529381968>",
+        "He's the sushi singer, the loquacious pescatarian, the big catfish with a big fish dish. He'll prep you a meal, then cut you a deal. Here comes Taaaaaaahm Kench!",
+        "Culinary Masters",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223001.jpg"
+    ],
+    "Tahm Kench_2": [
+        "Urf Kench",
+        "Budget Skin",
+        "31.03.2016",
+        "750 <:RP:1048822247529381968>",
+        "None",
+        "Urf the Manatee",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223002.jpg"
+    ],
+    "Tahm Kench_3": [
+        "Coin Emperor Tahm Kench",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "28.01.2019",
+        "1350 <:RP:1048822247529381968>",
+        "Craving the smell of coins over all other earthly delights, Tahm Kench rises from his river kingdom each Lunar Revel, seeking to barter with mortals. Though his targets are almost always left destitute, with the proper reverence and careful wording it is possible to escape his bargains unimaginably wealthy.",
+        "Lunar Revel",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223003.jpg"
+    ],
+    "Tahm Kench_11": [
+        "Arcana Tahm Kench",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "13.05.2021",
+        "1350 <:RP:1048822247529381968>",
+        "The epitome of power and opulence, Tahm Kench's power drips from his tongue. Its ornate patterns captivate and cajole his listeners. He leverages those he rules, staking his power to ensure the patterns always shift in his favor - \"Correcting\" his subjects who have gone astray.",
+        "Arcana",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223011.jpg"
+    ],
+    "Tahm Kench_20": [
+        "High Noon Tahm Kench",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "26.05.2022",
+        "1350 <:RP:1048822247529381968>",
+        "Tahm Kench is a magnanimous devil: happy to lend a magical sword to a lady in need, or to assist her in robbing the Sulfur Rail, or even to deliver her to a calamitous destiny as a fellow Harbinger of the End Times. He don't need no compensation. She'll just owe him a favor... because in the End, it pays to have friends.",
+        "High Noon",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/223/223020.jpg"
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Shyvana_0": [
+        "Default Shyvana",
+        "Champion Default",
+        "01.11.2011",
+        "790 <:RP:1048822247529381968> / 3150 <:BE:1048822146580881448>",
+        "Shyvana is a creature with the magic of a rune shard burning within her heart. Though she often appears humanoid, she can take her true form as a fearsome dragon, incinerating her foes with fiery breath. Having saved the life of the crown prince Jarvan IV, Shyvana now serves uneasily in his royal guard, struggling to find acceptance among the suspicious people of Demacia.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102000.jpg"
+    ],
+    "Shyvana_1": [
+        "Ironscale Shyvana",
+        "Budget Skin",
+        "01.11.2011",
+        "750 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102001.jpg"
+    ],
+    "Shyvana_2": [
+        "Boneclaw Shyvana",
+        "Timeworn Skin",
+        "01.11.2011",
+        "520 <:RP:1048822247529381968>",
+        "Many hunters claim Shyvana holds an unfair advantage when it comes to slaying the giant beasts that roam the land. Shyvana herself cares little about their opinions, preferring instead to channel her rage into her true form - a massive, fire-breathing dragon... that proves the hunters' point.",
+        "Prehistoric Hunters",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102002.jpg"
+    ],
+    "Shyvana_3": [
+        "Darkflame Shyvana",
+        "Standard Skin",
+        "28.05.2012",
+        "975 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102003.jpg"
+    ],
+    "Shyvana_4": [
+        "Ice Drake Shyvana",
+        "Standard Skin",
+        "29.04.2013",
+        "975 <:RP:1048822247529381968>",
+        "None",
+        "Blackfrost",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102004.jpg"
+    ],
+    "Shyvana_5": [
+        "Championship Shyvana",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "13.10.2014",
+        "975 <:RP:1048822247529381968>",
+        "Celebrating the 2014 World Championship in Korea.",
+        "World Championship",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102005.jpg"
+    ],
+    "Shyvana_6": [
+        "Super Galaxy Shyvana",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "25.05.2016",
+        "1350 <:RP:1048822247529381968>",
+        "By far the most experienced of the entire Super Galaxy team, Shyvana is the leader her teammates sorely need. A transfer pilot from a different (but just as hyperbolically named) defense force, she does sometimes find herself at odds with her allies as much as her enemies - and periodically questions if the ten percent salary bonus was actually worth it.",
+        "Super Galaxy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102006.jpg"
+    ],
+    "Shyvana_8": [
+        "Ruined Shyvana",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "21.01.2021",
+        "1350 <:RP:1048822247529381968>",
+        "Shyvana's ruination brings a newfound darkness, as well as clarity. Turning swiftly against Demacia for its persecution of magic, and sinking into her more draconic emotions, she appears as an avenging beast of old, ready to topple Demacia for its ignorance.",
+        "Ruined",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/102/102008.jpg"
+    ]
+}

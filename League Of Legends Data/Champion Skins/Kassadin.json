@@ -1,0 +1,83 @@
+{
+    "Kassadin_0": [
+        "Default Kassadin",
+        "Champion Default",
+        "06.08.2009",
+        "790 <:RP:1048822247529381968> / 3150 <:BE:1048822146580881448>",
+        "Cutting a burning swath through the darkest places of the world, Kassadin knows his days are numbered. A widely traveled Shuriman guide and adventurer, he had chosen to raise a family among the peaceful southern tribes - until the day his village was consumed by the Void. He vowed vengeance, combining a number of arcane artifacts and forbidden technologies for the struggle ahead. Finally, Kassadin set out for the wastelands of Icathia, ready to face any monstrous Void-construct in his search for their self-proclaimed prophet, Malzahar.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38000.jpg"
+    ],
+    "Kassadin_1": [
+        "Festival Kassadin",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "12.02.2010",
+        "520 <:RP:1048822247529381968>",
+        "Reigning from his frozen throne on a lonely mountain, Kassadin prepares in secret for a special festival hidden deep in the icy wastes. Whether it's a winter sports festival, none can say... except for the attendees, who think he's being ridiculous.",
+        "Winter Sports",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38001.jpg"
+    ],
+    "Kassadin_2": [
+        "Deep One Kassadin",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "01.08.2010",
+        "520 <:RP:1048822247529381968>",
+        "\"Kassadin vanished at sea over fifty years ago. Whatever you saw down there - if you did see anything - it can't have been the same man I watched fall into the drink. And if it was... gods help us.\"",
+        "Forgotten Depths",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38002.jpg"
+    ],
+    "Kassadin_3": [
+        "Pre-Void Kassadin",
+        "Timeworn Skin",
+        "26.09.2010",
+        "520 <:RP:1048822247529381968>",
+        "None",
+        "Curse of the Void",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38003.jpg"
+    ],
+    "Kassadin_4": [
+        "Harbinger Kassadin",
+        "Standard Skin",
+        "01.11.2010",
+        "975 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38004.jpg"
+    ],
+    "Kassadin_5": [
+        "Cosmic Reaver Kassadin",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "14.10.2015",
+        "1350 <:RP:1048822247529381968>",
+        "Born before the kindling of the stars, Kassadin stands alone in space's vast void. He watches over all things, a sentinel awaiting the end of this universe... and the beginning of the next.",
+        "Cosmic",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38005.jpg"
+    ],
+    "Kassadin_6": [
+        "Count Kassadin",
+        "Legacy Skin <:Legacy:1048820815010992208> <:Epic:1048819608129388554>",
+        "24.10.2019",
+        "1350 <:RP:1048822247529381968>",
+        "A grim, lonely man who lives on a grim, lonely street, Kassadin is the one whom all kids avoid on All Hallows' Eve; for in his presence, there are no treats nor sweets to be found.",
+        "Trick or Treat",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38006.jpg"
+    ],
+    "Kassadin_14": [
+        "Hextech Kassadin",
+        "Mythic <:Mythic:1048819402432331866>",
+        "15.10.2020",
+        "100 <:ME:1048845189285941299>",
+        "Engrossed in his work to the point of near-obsession, Kassadin vanished for some time into the bowels of his labyrinthian workshop, disappearing from public life for years. When he emerged, he revealed a shocking hextech innovation to the world: his own body, fully integrated with the technology he so loved.",
+        "Hextech",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38014.jpg"
+    ],
+    "Kassadin_15": [
+        "Shockblade Kassadin",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "17.02.2022",
+        "1350 <:RP:1048822247529381968>",
+        "As high priest of the Shockblade order, Kassadin has a deep connection to the Storm few understand, but all respect. It is the power of his station that allows the Shockblades to follow their targets in and out of the spirit realm, going where no one else can to protect the people under their charge.",
+        "Shockblade",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/38/38015.jpg"
+    ]
+}

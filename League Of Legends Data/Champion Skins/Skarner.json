@@ -1,0 +1,56 @@
+{
+    "Skarner_0": [
+        "Default Skarner",
+        "Champion Default",
+        "09.08.2011",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, the Brackern entered hibernation to avoid untold magical destruction, but recent, threatening events have roused Skarner. As the only Brackern awake, he strives to protect his kind from those who seek to harm them.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72000.jpg"
+    ],
+    "Skarner_1": [
+        "Sandscourge Skarner",
+        "Standard Skin",
+        "09.08.2011",
+        "975 <:RP:1048822247529381968>",
+        "Travelers seeking their fortune on the open prairie must take special care at night, when massive, carnivorous scorpions are lured by the flickering light of campfires. More than one caravan has been lost to the creatures, the bones of their passengers picked clean.",
+        "High Noon",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72001.jpg"
+    ],
+    "Skarner_2": [
+        "Earthrune Skarner",
+        "Timeworn Skin",
+        "09.08.2011",
+        "520 <:RP:1048822247529381968>",
+        "None",
+        "Legacy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72002.jpg"
+    ],
+    "Skarner_3": [
+        "Battlecast Alpha Skarner",
+        "Legendary Skin <:Legendary:1048819543432253460>",
+        "25.11.2014",
+        "1820 <:RP:1048822247529381968>",
+        "An early prototype that would pave the way for the Battlecast machines, Alpha Skarner is possessed of an extreme rage not seen in later models. Perhaps the brain inside it wishes to inflict as much pain as it experiences - or maybe it just likes to kill things.",
+        "Battlecast",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72003.jpg"
+    ],
+    "Skarner_4": [
+        "Guardian of the Sands Skarner",
+        "Standard Skin",
+        "26.04.2015",
+        "975 <:RP:1048822247529381968>",
+        "Skarner, the gilded scorpion - ancient guardian of the sands, we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest in your rage they are torn asunder.",
+        "Guardian of the Sands",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72004.jpg"
+    ],
+    "Skarner_5": [
+        "Cosmic Sting Skarner",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "24.11.2020",
+        "1350 <:RP:1048822247529381968>",
+        "An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it.",
+        "Cosmic",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/72/72005.jpg"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Illaoi_0": [
+        "Default Illaoi",
+        "Champion Default",
+        "24.11.2015",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "Illaoi's powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes' spirits from their bodies and shatter their perception of reality. All who challenge the 'Truth Bearer of Nagakabouros' soon discover Illaoi never battles alone - the god of the Serpent Isles fights by her side.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/420/420000.jpg"
+    ],
+    "Illaoi_1": [
+        "Void Bringer Illaoi",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "24.11.2015",
+        "1350 <:RP:1048822247529381968>",
+        "None",
+        "Curse of the Void",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/420/420001.jpg"
+    ],
+    "Illaoi_2": [
+        "Resistance Illaoi",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "15.03.2018",
+        "1350 <:RP:1048822247529381968>",
+        "Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world.",
+        "Battlecast",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/420/420002.jpg"
+    ],
+    "Illaoi_10": [
+        "Cosmic Invoker Illaoi",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "24.11.2020",
+        "1350 <:RP:1048822247529381968>",
+        "An entity who carries the raw power of cosmic creation in her hands, Illaoi can slam the orb she holds into the very fabric of reality, allowing time to flow forward even in places where life has been eradicated.",
+        "Cosmic",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/420/420010.jpg"
+    ],
+    "Illaoi_18": [
+        "Snow Moon Illaoi",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "23.06.2022",
+        "1350 <:RP:1048822247529381968>",
+        "Illaoi, the High Priestess of the Snow Moon, imagines a world free of the madness that consumes it. Her vision can only be realized when every soul is cleansed, every demon ripped from its bindings. Maintaining order with an icy resolve, she'll stop at nothing, her own humanity a fleeting memory.",
+        "Snow Moon",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/420/420018.jpg"
+    ]
+}

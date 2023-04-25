@@ -1,0 +1,74 @@
+{
+    "Elise_0": [
+        "Default Elise",
+        "Champion Default",
+        "26.10.2012",
+        "880 <:RP:1048822247529381968> / 4800 <:BE:1048822146580881448>",
+        "Elise is a deadly predator who dwells in a shuttered, lightless palace, deep within the oldest city of Noxus. Once mortal, she was the mistress of a powerful house, but the bite of a vile demigod transformed her into something beautiful, yet utterly inhuman - a spider-like creature, drawing unsuspecting prey into her web. To maintain her eternal youth, Elise now prefers to feed upon the naive and the faithless, and there are few who can resist her seductions.",
+        "Default",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60000.jpg"
+    ],
+    "Elise_1": [
+        "Death Blossom Elise",
+        "Standard Skin",
+        "26.10.2012",
+        "975 <:RP:1048822247529381968>",
+        "An enchanting beauty she is, lithe in form, and colored like the flowering valleys frozen mid-bloom by winter's chill. Yet the creature Elise dines upon the flesh of maidens, allured by her delicate pulchritude, who dance softly into the jaws of a monster.",
+        "Death Blossom",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60001.jpg"
+    ],
+    "Elise_2": [
+        "Victorious Elise",
+        "Special",
+        "20.12.2013",
+        "Reward for reaching Gold or Higher in Season 2013.",
+        "Victorious Elise was awarded to players who reached Gold or higher in the 2013 season. Spin a wicked web for your enemies in gold-trimmed armor and deep purple robes, and chuckle as they struggle.",
+        "Victorious",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60002.jpg"
+    ],
+    "Elise_3": [
+        "Blood Moon Elise",
+        "Standard Skin",
+        "08.01.2015",
+        "975 <:RP:1048822247529381968>",
+        "A revered priestess of the Blood Moon cult, Elise has so wholly intertwined her body with her demon spirit that they are now a single entity. She has traveled beyond all known civilization, existing in the apocryphal darkness hanging beyond the precipice of the world.",
+        "Blood Moon",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60003.jpg"
+    ],
+    "Elise_4": [
+        "SKT T1 Elise",
+        "Legacy Skin <:Legacy:1048820815010992208>",
+        "17.08.2016",
+        "975 <:RP:1048822247529381968>",
+        "Honoring Bengi's winning performance as Elise during the 2015 World Championship. This is Bengi's second World Champion skin, following his win with SKT at the 2013 World Championship.",
+        "World Champions: 2015",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60004.jpg"
+    ],
+    "Elise_5": [
+        "Super Galaxy Elise",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "16.10.2017",
+        "1350 <:RP:1048822247529381968>",
+        "Once a promising cadet, Elise discovered that her metamorphic power enabled her transformation into a mechanical arachnoid at will. Now, she seeks to reign as an evil, immortal Spider Queen - seeing all the galaxy not as a home to defend, but a realm to be conquered.",
+        "Super Galaxy",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60005.jpg"
+    ],
+    "Elise_6": [
+        "Bewitching Elise",
+        "Legacy Skin <:Legacy:1048820815010992208> <:Epic:1048819608129388554>",
+        "22.10.2020",
+        "1350 <:RP:1048822247529381968>",
+        "A witch of some renown, Elise is widely feared by trick-or-treaters after that whole \"human-sized cocoons\" incident.",
+        "Bewitching",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60006.jpg"
+    ],
+    "Elise_15": [
+        "Withered Rose Elise",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "10.02.2022",
+        "1350 <:RP:1048822247529381968>",
+        "Elise is in attendance at every annual gala, despite never once receiving a formal invitation. Rumor has it she's been blacklisted for spinning webs of lies, forming and disbanding allegiances in the span of a single evening. Attendees have also noted her suitors never seem to make a return visit to the festival.",
+        "Withered Rose",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/60/60015.jpg"
+    ]
+}
