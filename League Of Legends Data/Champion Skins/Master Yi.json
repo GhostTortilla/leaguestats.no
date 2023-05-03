@@ -58,7 +58,7 @@
         "Legendary Skin <:Legendary:1048819543432253460>",
         "07.09.2015",
         "1820 <:RP:1048822247529381968>",
-        "One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight \"alpha\" blade serves the resistance with its precision balance.",
+        "One of the first concepts, Yi was held by PROJECT for extensive experimentation, and then finally freed by the G/NETIC rebels. His psyche may still contain some glitches, but his experimental hyperlight \"Alpha\" blade serves the resistance with its precision balance.",
         "PROJECT",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/11/11009.jpg"
     ],
@@ -112,7 +112,7 @@
         "Epic Skin <:Epic:1048819608129388554>",
         "09.12.2021",
         "1350 <:RP:1048822247529381968>",
-        "A powerful businessman of few words, often seen staring down on \"his\" strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire.",
+        "A powerful businessman of few words, often seen staring down on \"His\" strip from the comfort of his posh presidential suite. Despite his cold demeanor, Yi enjoys the finer things in life, and demands only the finest fits for his world-famous evening attire.",
         "Debonair",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/11/11042.jpg"
     ],
@@ -129,9 +129,18 @@
         "Prestige Spirit Blossom Master Yi",
         "Mythic <:Mythic:1048819402432331866>",
         "06.10.2022",
-        "Unclear <:ME:1048845189285941299>",
-        "Yi arrives at the Spirit Blossom Fashion Festival, donning tinted shades and the finest fabrics. While others prefer to celebrate with close family and friends, Yi revels in the attention his outfit brings, intent to cement his style "legacy".",
+        "125 <:ME:1048845189285941299>",
+        "Yi arrives at the Spirit Blossom Fashion Festival, donning tinted shades and the finest fabrics. While others prefer to celebrate with close family and friends, Yi revels in the attention his outfit brings, intent to cement his style \"Legacy\".",
         "Spirit Blossom",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/11/11053.jpg"
+    ],
+    "Master Yi_89": [
+        "Inkshadow Master Yi",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "03.05.2023",
+        "1350 <:RP:1048822247529381968>",
+        "Master Yi's family refused Cabal control, fleeing Rabadon City—only to be snuffed out. To fight back, he became one of the first Inkshadow Warriors, sacrificing his lifespan for a magical tattoo that grants him the power to raise his sword against the Cabal. He doesn't know how long he has left to live; still, he will save his city… and get his revenge.",
+        "Inkshadow",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/11/11089.jpg"
     ]
 }

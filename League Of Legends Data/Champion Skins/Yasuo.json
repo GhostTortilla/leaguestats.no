@@ -58,7 +58,7 @@
         "Epic Skin <:Epic:1048819608129388554>",
         "28.06.2019",
         "1350 <:RP:1048822247529381968>",
-        "One-time protagonist of the 1979 cult classic \"Hasagi,\" Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil.",
+        "One-time protagonist of the 1979 cult classic \"Hasagi\", Yasuo was infected with Veigar's malignant code after the Battle Boss takeover of Arcadia. He maintains his impossibly complex gameplay patterns and high-damage attacks, but now fights for the forces of evil.",
         "Arcade: Battle Bosses",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157017.jpg"
     ],
@@ -76,7 +76,7 @@
         "Mythic <:Mythic:1048819402432331866>",
         "25.09.2020",
         "125 <:ME:1048845189285941299>",
-        "After the global success of \"GIANTS,\" reclusive producer-extraordinaire Yasuo was inundated with requests. From record deals to clothing sponsorships, he turned down one after another, preferring to stay out of the limelight to focus on the simple joys of making beats. However, A Bathing Ape somehow managed to secure his attention. Now, donning golden threads to match his musical brilliance, Yasuo holds the world's ears at attention - with fans and critics alike waiting to hear his next revolutionary track.",
+        "After the global success of \"GIANTS\", reclusive producer-extraordinaire Yasuo was inundated with requests. From record deals to clothing sponsorships, he turned down one after another, preferring to stay out of the limelight to focus on the simple joys of making beats. However, A Bathing Ape somehow managed to secure his attention. Now, donning golden threads to match his musical brilliance, Yasuo holds the world's ears at attention - with fans and critics alike waiting to hear his next revolutionary track.",
         "True Damage",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157035.jpg"
     ],
@@ -115,5 +115,23 @@
         "The song of steel grew silent, and Yasuo was the last living soul on the battlefield - though he imagined he could hear the thankful murmurs of the villagers he'd protected. Wounded and dying, Yasuo produced his flute to play a last haunting elegy. The Dragon of Dreams descended from its mountaintop, moved by Yasuo's song, and offered him its power...",
         "Dragonmancers",
         "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157055.jpg"
+    ],
+    "Yasuo_56": [
+        "Inkshadow Yasuo",
+        "Epic Skin <:Epic:1048819608129388554>",
+        "03.05.2023",
+        "1350 <:RP:1048822247529381968>",
+        "Displaced from his home alongside Master Yi, Yasuo now uses his Inkshadow tattoos to ride the wind between Rabadon City and the outskirts, protecting civilians seeking asylum with help from the mysterious Man of Masks. Though he gave up his freedom in exchange for power, he sees the price as penance for being unable to help those who needed it most.",
+        "Inkshadow",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157056.jpg"
+    ],
+    "Yasuo_57": [
+        "Prestige Inkshadow Yasuo",
+        "Mythic <:Mythic:1048819402432331866>",
+        "03.05.2023",
+        "125 <:ME:1048845189285941299>",
+        "Sporting an elevated take on traditional Ionian menswear coupled with a fearlessly bare set of stunning blackout tattoos, Yasuo's gala look celebrates elegant rebellion, sartorial subversion, and an uprising of unprecedented design.",
+        "Inkshadow",
+        "http://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-splashes/uncentered/157/157057.jpg"
     ]
 }
