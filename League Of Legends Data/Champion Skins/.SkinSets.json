@@ -754,7 +754,9 @@
         "Ornn_2",
         "LeBlanc_5",
         "Bard_1",
+        "Wukong_16",
         "Ahri_17",
+        "Karthus_26",
         "Xayah_8",
         "Rakan_9",
         "Azir_5",
@@ -1728,12 +1730,14 @@
         "Morgana_50",
         "Akali_61",
         "Nilah_1",
+        "Orianna_29",
         "Rell_10",
         "Sona_35",
         "Quinn_14",
         "Syndra_34",
         "Taliyah_11",
-        "Fiddlesticks_27"
+        "Fiddlesticks_27",
+        "Seraphine_34"
         ],
     "Steel Legion": [
         "Garen_6",
@@ -1871,6 +1875,7 @@
         "Maokai_7",
         "Jarvan IV_4",
         "Lucian_25",
+        "Anivia_46",
         "Elise_2",
         "Aatrox_9",
         "Sejuani_36",
